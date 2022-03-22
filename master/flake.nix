@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-pdba-master.flake = false;
+  inputs.src-pdba-master.ref   = "refs/heads/master";
   inputs.src-pdba-master.owner = "misebox";
-  inputs.src-pdba-master.ref   = "master";
   inputs.src-pdba-master.repo  = "pdba";
   inputs.src-pdba-master.type  = "github";
   
