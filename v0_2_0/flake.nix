@@ -11,6 +11,7 @@
   inputs.src-pdba-v0_2_0.ref   = "refs/tags/v0.2.0";
   inputs.src-pdba-v0_2_0.owner = "misebox";
   inputs.src-pdba-v0_2_0.repo  = "pdba";
+  inputs.src-pdba-v0_2_0.dir   = "";
   inputs.src-pdba-v0_2_0.type  = "github";
   
   inputs."yaml".owner = "nim-nix-pkgs";

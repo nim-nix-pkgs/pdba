@@ -11,6 +11,7 @@
   inputs.src-pdba-master.ref   = "refs/heads/master";
   inputs.src-pdba-master.owner = "misebox";
   inputs.src-pdba-master.repo  = "pdba";
+  inputs.src-pdba-master.dir   = "";
   inputs.src-pdba-master.type  = "github";
   
   inputs."yaml".owner = "nim-nix-pkgs";
